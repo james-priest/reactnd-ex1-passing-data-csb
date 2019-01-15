@@ -1,7 +1,7 @@
 {
   "name": "exercise-1-passing-data",
   "version": "1.0.0",
-  "description": "Receives data from three object stores thru props to display favorite movie info",
+  "description": "Receives data from three object stores through props to display favorite movie info",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
