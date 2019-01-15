@@ -2,4 +2,8 @@
 
 # Exercise 1 - Passing Data
 
-This repo is from codesandbox. It receives data from three object stores through props to display favorite movie info
+This React app was created on [codesandbox.io](https://codesandbox.io) with the create-react-app template.
+
+It is an exercise from Udacity's React Nanodegree program.
+
+It receives data from three object stores through props to display favorite movie info
